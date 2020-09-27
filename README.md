@@ -27,7 +27,7 @@ $ ColabCode(port=10000, password="abhishek", mount_drive=True)
 ```
 
 ## How to use it?
-`click on the colab icon`
+`click on the colab button`
 
 Colab starter notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shashidharreddydakuri/vscode_colab_starter/blob/master/VSCode_colab_starter.ipynb)
 
